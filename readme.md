@@ -32,13 +32,19 @@ Basit, eğlenceli ve zaman sınırlı bir quiz uygulaması. Kullanıcı, JavaScr
 
 quiz-app/
 ├── index.html              # Ana HTML dosyası
+|
 ├── css/
 │   └── style.css           # Tüm özel stiller
+|
 ├── js/
 │   ├── soru.js             # Soru sınıfı ve soru verileri
+|
 │   ├── quiz.js             # Quiz mantığı (soru yönetimi, skor takibi)
+|
 │   ├── ui.js               # Arayüz (DOM) işlemleri
+|
 │   └── script.js           # Ana script (event listener'lar, timer'lar)
+|
 └── README.md               # Bu dosya
 text
 
