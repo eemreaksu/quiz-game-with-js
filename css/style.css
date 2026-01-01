@@ -1,3 +1,9 @@
+@media (max-width: 576px) {
+    .quiz_box { width: 95%; max-width: none; }
+    .quiz_box header { flex-direction: column; gap: 10px; }
+}
+
+
 .btn_start,
 .quiz_box,
 .score_box {
