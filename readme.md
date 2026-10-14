@@ -56,4 +56,3 @@ text
 - script.js → Event listener'ları bağlar, timer'ları başlatır ve oyunun genel akışını kontrol eder.
 
 
-### Sadık Turan Hoca'nın eğitiminden yararlanılıp, kodlarında ufak düzenlemeler yapılmıştır
